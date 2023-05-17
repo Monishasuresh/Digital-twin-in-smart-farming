@@ -1,0 +1,7 @@
+client - will hold frontend
+server - will hold the backend
+Components - hold login register and dashboard. these will be in different routes/pages , so routes are created. 
+to install react router dependency run : npm install react-router-dom  
+
+
+
